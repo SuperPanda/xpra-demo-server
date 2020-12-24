@@ -4,5 +4,7 @@
 ## Gathering data
 Need to know what you got, and need to store that information in a easy to process way. brb, going to model a graph database that will collect preliminary information on system information
 
+- installed virt-manager
+
 ## AutoNetworking and Remote Disk Decryption at Boot
 ### Add TinySSH , Network, WiFi, and ssh-crypt modules to the boot image
